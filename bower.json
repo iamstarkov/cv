@@ -1,0 +1,18 @@
+{
+  "name": "matmuchrapna-cv",
+  "version": "0.0.1",
+  "description": "Hire me",
+  "author": "Vladimir Starkov <matmuchrapna@gmail.com> (http://vstarkov.com)",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:matmuchrapna/cv.git"
+  },
+  "ignore": [
+    "node_modules",
+    "libs"
+  ],
+  "dependencies": {
+    "bootstrap": "bem-bootstrap#v0.1.5"
+  }
+}

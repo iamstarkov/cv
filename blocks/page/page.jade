@@ -1,0 +1,16 @@
+mixin page(lang, title)
+  doctype html
+  html(lang="#{lang}").page
+    head.page__head
+      title #{title}
+      meta(charset="utf-8")
+      meta(name="viewport" content="width=device-width, initial-scale=1")
+      link(rel="icon" href="//vstarkov.com/favicon.ico")
+      link(rel="stylesheet" href="/index.css")
+    body.page__body
+      .grid.grid_fixed
+        .grid__row
+          .grid__cell-md.grid__cell-md_size_6.grid__cell-md_offset_3.raw-text
+            block
+
+      +gauges('54070a998bfdf7145100b613')
