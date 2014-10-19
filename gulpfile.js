@@ -22,14 +22,20 @@ gulp.task('tree', function () {
 });
 
 gulp.task('css', ['tree'], function () {
-    return tree.deps('blocks/page')
-        .pipe(bem.src('{bem}.css'))
-        .pipe(concat('index.css'))
-        .pipe(autoprefixer({
-            browsers: ['last 2 versions'],
-            cascade: false
-        }))
-        .pipe(gulp.dest('./dist'));
+    function buildCSS(page) {
+        return tree.deps('pages/' + page.id)
+            .pipe(bem.src('{bem}.css'))
+            .pipe(concat('index.css'))
+            .pipe(autoprefixer({
+                browsers: ['last 2 versions'],
+                cascade: false
+            }))
+            .pipe(gulp.dest('dist' +
+                (page.id === 'en' ? '' : '/' + page.id)
+            ));
+    }
+
+    return bem.objects('pages').map(buildCSS);
 });
 
 gulp.task('html', ['tree'], function () {
@@ -74,6 +80,8 @@ gulp.task('watch', ['express', 'build'], function() {
     watch('**/*.css',  function () { gulp.start('css'); });
     watch('**/*.jade', function () { gulp.start('html'); });
     watch('*.md', function () { gulp.start('html'); });
+    watch('*.js', function () { gulp.start('watch'); });
+
 });
 
 gulp.task('default', ['watch']);
