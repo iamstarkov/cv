@@ -1,3 +1,5 @@
+**Current status: available for hire**
+
 # [Resume](http://matmuchrapna.github.io/cv/)
 
 * Vladimir Starkov, 23 years old
