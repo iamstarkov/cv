@@ -5,19 +5,19 @@
 * Vladimir Starkov, 23 years old
 * Married, no children
 * Yekaterinburg, Russian Federation
-* Last job — [Yandex](https://yandex.com/)
+* Previous job — [Yandex][ya-en]
 
-In my spare time I love to code sites and work on my own projects, also I write blog http://vstarkov.com/.
+In my spare time I love to code sites and work on my own projects, also I write [blog][site-en].
 
-I have skills to create sites and user interfaces. Know how to do everything about HTML+CSS. My JavaScript is rather good too. I am active opensource participator on [GitHub]( http://github.com/matmuchrapna) and [StackOverflow]( http://stackoverflow.com/users/1057730/vladimir-starkov).
+I have skills to create sites and user interfaces. Know how to do everything about HTML+CSS. My JavaScript is rather good too. I am active opensource participator on [GitHub][GH] and [StackOverflow][SO].
 
 
 ## Contacts
 
 * +7 922 609-11-63
-* http://vstarkov.com/
-* [Gmail](mailto:matmuchrapna@gmail.com), [Skype](skype:matmuchrapna?call), [not empty Github](https://github.com/matmuchrapna) and [technical Twitter](https://twitter.com/matmuchrapna) — @matmuchrapna
-* Stackoverflow: http://stackoverflow.com/users/1057730/vladimir-starkov
+* Professional blog [vstarkov.com][site-en].
+* [Gmail][gmail], [Skype][skype], [not empty Github][GH] and [technical Twitter][tw] — @matmuchrapna
+* Stackoverflow: [stackoverflow.com/users/1057730/vladimir-starkov][SO]
 
 ## Skills
 
@@ -32,11 +32,11 @@ I have skills to create sites and user interfaces. Know how to do everything abo
 ## Education
 
 * Chelyabinsk State Unversity, 2008—2013
-* Intensive course "Typography for designers" from freelance studio "[Lyapustin](http://lyapustin.com/)"
+* Intensive course "Typography for designers" from freelance studio "[Lyapustin][lyapustin]"
 
 ## Work experience
 
-### [Yandex](https://yandex.com/)
+### [Yandex][ya-en]
 User interface developer, *April 2013 — October 2014*
 
 Worked on promo pages, mostly on yandex browser promo page http://browser.yandex.ru/. Worked in full stack: I code client side html+css+js, and write backend business logic on NodeJS. Worked on marketing campaigns and AB-testing. Technology stack: NodeJS, Express, BEM, bh, priv.js, i-bem.
@@ -45,14 +45,14 @@ Worked on promo pages, mostly on yandex browser promo page http://browser.yandex
 * http://browsers.yandex.ru/
 * http://home.yandex.ru/
 
-### Volunteering for [FBK](http://fbk.info/)
+### Volunteering for [FBK][fbk]
 Full-stack developer, *April 2014 – May 2014*
 
 FBK is biggest russian anti-corruptional fund. In short deadline, we develop anonymous online tool, to make it easier and safer to send facts and documents about coruptia the fund.
 
 * http://blackbox.fbk.info/
 
-### [Digital Property](http://digipro.ru/)
+### [Digital Property][digipro]
 Frontend developer *August 2011 — April 2013*
 
 Worked on company's own project, builded some sites from the ground. At this stage of my carreer I understand requirement to use any CSS methodology, and implement some way OOCSS in the workflow.
@@ -75,11 +75,36 @@ Some time I worked as freelancer.
 
 ### My own projects:
 
-* http://getbem.com/ Alternative instead too diffucult http://bem.info/
-* http://frontender.info/ Participating in project creating, further support and translatings.
-* http://largescalejs.ru/ Addy Osmany's book translation
-* https://github.com/matmuchrapna/bem-bootstrap Bootstrap blocks in BEM terms
-* https://github.com/matmuchrapna/gulp-csscomb-lint Tool for linting CSS files with CSScomb
-* https://github.com/matmuchrapna/CSS-Guidelines Harry Roberts CSS guidelines translation
-* http://matmuchrapna.github.io/bochar/ Tool for generatin Shower presentation from Markdown files
-* http://matmuchrapna.github.io/jquery.imenu/ jQuery lib to control menu state at responsive sites
+* [getbem.com][getbem] — alternative for complicated [bem.info][bem.info]
+* [frontender.info][frontender] — participating in creating project, further support and translatings. It is a biggest online magazine for russian-speaking frontend developers.
+* [largescalejs.ru][largescalejs] — Addy Osmany's book translation.
+* [bem-bootstrap][bem-bootstrap] — bootstrap blocks in [BEM][gebem] terms.
+* [gulp-csscomb-lint][gulp-csscomb-lint] — tool for linting CSS files with CSScomb.
+* [CSS-Guidelines][CSS-Guidelines] — Harry Roberts's CSS guidelines translation.
+* [Bochar][bochar] — tool for generating Shower presentation from Markdown files
+* [jquery.imenu][jquery.imenu] — jQuery plugin to control state of menu at responsive sites.
+
+
+[site-ru]: http://vstarkov.ru/
+[site-en]: http://vstarkov.com/
+[GH]: http://github.com/matmuchrapna
+[SO]: http://stackoverflow.com/users/1057730/vladimir-starkov
+[gmail]: mailto:matmuchrapna@gmail.com
+[skype]: skype:matmuchrapna?chat
+[tw]: https://twitter.com/matmuchrapna
+
+[lyapustin]: http://lyapustin.com/
+[ya-ru]: https://yandex.ru/
+[ya-en]: https://yandex.com/
+[fbk]: http://fbk.info/
+[digipro]: http://digipro.ru/
+
+[getbem]: http://getbem.com/
+[bem.info]: http://bem.info/
+[frontender]: http://frontender.info/
+[largescalejs]: http://largescalejs.ru/
+[bem-bootstrap]: https://github.com/matmuchrapna/bem-bootstrap
+[gulp-csscomb-lint]: https://github.com/matmuchrapna/gulp-csscomb-lint
+[CSS-Guidelines]: https://github.com/matmuchrapna/CSS-Guidelines
+[bochar]: https://matmuchrapna.github.io/bochar/
+[jquery.imenu]: https://matmuchrapna.github.io/jquery.imenu/
