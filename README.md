@@ -46,13 +46,13 @@ Worked on promo pages, mostly on yandex browser promo page http://browser.yandex
 * http://home.yandex.ru/
 
 ### Volunteering for [FBK][fbk]
-Full-stack developer, *April 2014 – May 2014*
+Full stack developer, *April 2014 – May 2014*
 
-FBK is biggest russian anti-corruptional fund. In short deadline, we develop anonymous online tool, to make it easier and safer to send facts and documents about coruptia the fund.
+FBK Russia's largest anti-corruption fund. In the short time I have developed an anonymous online tool to safely send any data that would assist in the investigation of the fund.
 
 * http://blackbox.fbk.info/
 
-### [Digital Property][digipro]
+### [Digital Property LLC][digipro]
 Frontend developer *August 2011 — April 2013*
 
 Worked on company's own project, builded some sites from the ground. At this stage of my carreer I understand requirement to use any CSS methodology, and implement some way OOCSS in the workflow.
@@ -78,7 +78,7 @@ Some time I worked as freelancer.
 * [getbem.com][getbem] — alternative for complicated [bem.info][bem.info]
 * [frontender.info][frontender] — participating in creating project, further support and translatings. It is a biggest online magazine for russian-speaking frontend developers.
 * [largescalejs.ru][largescalejs] — Addy Osmany's book translation.
-* [bem-bootstrap][bem-bootstrap] — bootstrap blocks in [BEM][gebem] terms.
+* [bem-bootstrap][bem-bootstrap] — bootstrap blocks in [BEM][getbem] terms.
 * [gulp-csscomb-lint][gulp-csscomb-lint] — tool for linting CSS files with CSScomb.
 * [CSS-Guidelines][CSS-Guidelines] — Harry Roberts's CSS guidelines translation.
 * [Bochar][bochar] — tool for generating Shower presentation from Markdown files
