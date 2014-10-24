@@ -8,8 +8,10 @@ mixin page(lang, title)
       link(rel="icon" href="//vstarkov.com/favicon.ico")
       link(rel="stylesheet" href="index.css")
     body.page__body
-      br
       .grid.grid_fixed
+        .grid__row.text.text_align_right
+          .grid__cell-md.grid__cell-md_size_8.grid__cell-md_offset_2
+            +links(lang)
         .grid__row
           .grid__cell-md.grid__cell-md_size_8.grid__cell-md_offset_2.raw-text
             block
