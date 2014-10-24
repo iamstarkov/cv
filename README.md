@@ -1,4 +1,4 @@
-**Current status: available for hire**
+**Available for hire**
 
 # [Vladimir Starkov's Resume](http://matmuchrapna.github.io/cv/)
 
