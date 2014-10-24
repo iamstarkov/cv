@@ -1,6 +1,6 @@
 **Current status: available for hire**
 
-# [Resume](http://matmuchrapna.github.io/cv/)
+# [Vladimir Starkov's Resume](http://matmuchrapna.github.io/cv/)
 
 * Vladimir Starkov, 23 years old
 * Married, no children
@@ -41,8 +41,8 @@ User interface developer, *April 2013 — October 2014*
 
 Worked on promo pages, mostly on yandex browser promo page http://browser.yandex.ru/. Worked in full stack: I code client side html+css+js, and write backend business logic on NodeJS. Worked on marketing campaigns and AB-testing. Technology stack: NodeJS, Express, BEM, bh, priv.js, i-bem.
 
-* http://browser.yandex.ru/
-* http://browsers.yandex.ru/
+* http://browser.yandex.ru/ I implemented a lot of features, after they have successfully passed AB testing.
+* http://browsers.yandex.ru/ Implementation of successfull redesign increase yandex browser conversation up to 10%.
 * http://home.yandex.ru/
 
 ### Volunteering for [FBK][fbk]
