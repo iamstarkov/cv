@@ -76,12 +76,11 @@ gulp.task('express', function() {
 });
 
 gulp.task('watch', ['express', 'build'], function() {
-    watch('**/*.deps.js',  function () { gulp.start('build'); });
-    watch('**/*.css',  function () { gulp.start('css'); });
-    watch('**/*.jade', function () { gulp.start('html'); });
+    watch('{blocks,pages}/**/*.deps.js',  function () { gulp.start('build'); });
+    watch('{blocks,pages}/**/*.css',  function () { gulp.start('css'); });
+    watch('{blocks,pages}/**/*.jade', function () { gulp.start('html'); });
     watch('*.md', function () { gulp.start('html'); });
-    watch('*.js', function () { gulp.start('watch'); });
-
+    watch('*.js', function () { gulp.start('build'); });
 });
 
 gulp.task('default', ['watch']);
