@@ -55,11 +55,15 @@ gulp.task('html', ['tree'], function () {
     return bem.objects('pages').map(buildHtml);
 });
 
+gulp.task('assets', function () {
+    return gulp.src('assets/**').pipe(gulp.dest('dist'));
+});
+
 gulp.task('clean', function (cb) {
     del(['dist'], cb);
 });
 
-gulp.task('build', ['html', 'css']);
+gulp.task('build', ['html', 'css', 'assets']);
 
 gulp.task('production', ['build']);
 
