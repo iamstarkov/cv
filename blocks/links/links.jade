@@ -1,0 +1,22 @@
+mixin links(lang)
+  if lang === 'en'
+    +links_en()
+  else
+    +links_ru()
+
+mixin links_ru()
+  | Это резюме доступно на 
+  a(href='https://github.com/matmuchrapna/cv/blob/master/README.RU.md') GitHub
+  | , 
+  a(href='http://chelyabinsk.hh.ru/resume/7ed9e901ff022c0bd60039ed1f37315355626b') hh.ru
+  |  и в 
+  a(href='./Владимир Старков Фронтенд разработчик.pdf') PDF
+
+
+mixin links_en()
+  | Check out this CV on 
+  a(href='https://github.com/matmuchrapna/cv/blob/master/README.md') GitHub
+  | , 
+  a(href='http://lnkd.in/ds7EYeS') LinkedIn
+  |  or in 
+  a(href='Vladimir Starkov Frontend developer.pdf') PDF
