@@ -1,10 +1,9 @@
-**Available for hire**
-
 # [Vladimir Starkov's Resume](http://matmuchrapna.github.io/cv/)
 
 * Vladimir Starkov, 23 years old
 * Married, no children
 * Yekaterinburg, Russian Federation
+* Current job — [CSSSR][csssr-en]
 * Previous job — [Yandex][ya-en]
 
 In my spare time I love to code sites and work on my own projects, also I write [blog][site-en].
@@ -35,6 +34,12 @@ I have skills to create sites and user interfaces. Know how to do everything abo
 * Intensive course "Typography for designers" from freelance studio "[Lyapustin][lyapustin]"
 
 ## Work experience
+
+### [CSSSR][csssr-com]
+
+Frontend developer, *October 2014 — current time*
+
+Creating and supporting AngularJS applications.
 
 ### [Yandex][ya-en]
 User interface developer, *April 2013 — October 2014*
@@ -94,6 +99,8 @@ Some time I worked as freelancer.
 [tw]: https://twitter.com/matmuchrapna
 
 [lyapustin]: http://lyapustin.com/
+[csssr-ru]: http://csssr.ru/
+[csssr-en]: http://csssr.com/
 [ya-ru]: https://yandex.ru/
 [ya-en]: https://yandex.com/
 [fbk]: http://fbk.info/
