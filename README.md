@@ -35,7 +35,7 @@ I have skills to create sites and user interfaces. Know how to do everything abo
 
 ## Work experience
 
-### [CSSSR][csssr-com]
+### [CSSSR][csssr-en]
 
 Frontend developer, *October 2014 — current time*
 
