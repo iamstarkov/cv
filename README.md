@@ -22,7 +22,7 @@ I have skills to create sites and user interfaces. Know how to do everything abo
 
 * OOCSS and BEM.
 * CSS, CSS3, RWD.
-* HTML, semantics HTML5, microdata (schema.org) и template engines.
+* HTML, semantics HTML5, microdata (schema.org) and template engines.
 * JavaScript, NodeJS.
 * Automatization: using Grunt; using, understanding gulpjs and creating gulp-plugins.
 * Git, linux.
