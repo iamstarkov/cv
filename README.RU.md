@@ -118,3 +118,4 @@ HTML-верстальщик, *Преимущественно 2009-2011*
 [CSS-Guidelines]: https://github.com/matmuchrapna/CSS-Guidelines
 [bochar]: https://matmuchrapna.github.io/bochar/
 [jquery.imenu]: https://matmuchrapna.github.io/jquery.imenu/
+[nope]: nope
