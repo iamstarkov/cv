@@ -6,7 +6,7 @@
 * Текущее место работы — [CSSSR][csssr-ru]
 * Предыдущее место работы — [Яндекс][ya-ru]
 
-В свободное время занимаюсь работой и собственными проектами, также веду [блог][site-ru].
+В свободное время занимаюсь работой и собственными проектами, также веду [блог][site].
 
 Умею верстать сайты и интерфейсы. Знаю и умею делать всё, что связано с HTML+CSS, JavaScript тоже знаю достаточно хорошо. Активный участник опенсорса на [GitHub][GH] и [StackOverflow][SO].
 
@@ -14,8 +14,8 @@
 ## Контакты
 
 * +7 922 609-11-63
-* Профессиональный блог [vstarkov.ru][site-ru].
-* [Gmail][gmail], [Skype][skype], [непустой GitHub][GH] и [технический Twitter][tw] — @matmuchrapna
+* Профессиональный блог [iamstarkov.com][site].
+* [Gmail][gmail], [Skype][skype], [непустой GitHub][GH] и [технический Twitter][tw] — @iamstarkov
 * Аккаунт на StackOverflow: [stackoverflow.com/users/1057730/vladimir-starkov][SO]
 
 ## Навыки
@@ -93,12 +93,12 @@ HTML-верстальщик, *Преимущественно 2009-2011*
 
 
 [site-ru]: http://vstarkov.ru/
-[site-en]: http://vstarkov.com/
-[GH]: http://github.com/matmuchrapna
+[site-en]: https://iamstarkov.com/
+[GH]: http://github.com/iamstarkov
 [SO]: http://stackoverflow.com/users/1057730/vladimir-starkov
-[gmail]: mailto:matmuchrapna@gmail.com
-[skype]: skype:matmuchrapna?chat
-[tw]: https://twitter.com/matmuchrapna
+[gmail]: mailto:iamstarkov@gmail.com
+[skype]: skype:iamstarkov?chat
+[tw]: https://twitter.com/iamstarkov
 
 [lyapustin]: http://lyapustin.com/
 
@@ -113,9 +113,9 @@ HTML-верстальщик, *Преимущественно 2009-2011*
 [bem.info]: http://bem.info/
 [frontender]: http://frontender.info/
 [largescalejs]: http://largescalejs.ru/
-[bem-bootstrap]: https://github.com/matmuchrapna/bem-bootstrap
-[gulp-csscomb-lint]: https://github.com/matmuchrapna/gulp-csscomb-lint
-[CSS-Guidelines]: https://github.com/matmuchrapna/CSS-Guidelines
-[bochar]: https://matmuchrapna.github.io/bochar/
-[jquery.imenu]: https://matmuchrapna.github.io/jquery.imenu/
+[bem-bootstrap]: https://github.com/iamstarkov/bem-bootstrap
+[gulp-csscomb-lint]: https://github.com/iamstarkov/gulp-csscomb-lint
+[CSS-Guidelines]: https://github.com/iamstarkov/CSS-Guidelines
+[bochar]: https://iamstarkov.com/bochar/
+[jquery.imenu]: https://iamstarkov.com/jquery.imenu/
 [nope]: nope

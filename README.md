@@ -1,4 +1,4 @@
-# [Vladimir Starkov's Resume](http://matmuchrapna.github.io/cv/)
+# [Vladimir Starkov's Resume](http://matmuchrapna.github.io/cv/ru/)
 
 * Vladimir Starkov, 23 years old
 * Married, no children
@@ -14,8 +14,8 @@ I have skills to create sites and user interfaces. Know how to do everything abo
 ## Contacts
 
 * +7 922 609-11-63
-* Professional blog [vstarkov.com][site-en].
-* [Gmail][gmail], [Skype][skype], [not empty Github][GH] and [technical Twitter][tw] — @matmuchrapna
+* Professional blog [iamstarkov.com][site-en].
+* [Gmail][gmail], [Skype][skype], [not empty Github][GH] and [technical Twitter][tw] — @iamstarkov
 * Stackoverflow: [stackoverflow.com/users/1057730/vladimir-starkov][SO]
 
 ## Skills
@@ -91,12 +91,12 @@ Some time I worked as freelancer.
 
 
 [site-ru]: http://vstarkov.ru/
-[site-en]: http://vstarkov.com/
-[GH]: http://github.com/matmuchrapna
+[site-en]: https://iamstarkov.com/
+[GH]: http://github.com/iamstarkov
 [SO]: http://stackoverflow.com/users/1057730/vladimir-starkov
-[gmail]: mailto:matmuchrapna@gmail.com
-[skype]: skype:matmuchrapna?chat
-[tw]: https://twitter.com/matmuchrapna
+[gmail]: mailto:iamstarkov@gmail.com
+[skype]: skype:iamstarkov?chat
+[tw]: https://twitter.com/iamstarkov
 
 [lyapustin]: http://lyapustin.com/
 [csssr-ru]: http://csssr.ru/
@@ -110,8 +110,8 @@ Some time I worked as freelancer.
 [bem.info]: http://bem.info/
 [frontender]: http://frontender.info/
 [largescalejs]: http://largescalejs.ru/
-[bem-bootstrap]: https://github.com/matmuchrapna/bem-bootstrap
-[gulp-csscomb-lint]: https://github.com/matmuchrapna/gulp-csscomb-lint
-[CSS-Guidelines]: https://github.com/matmuchrapna/CSS-Guidelines
-[bochar]: https://matmuchrapna.github.io/bochar/
-[jquery.imenu]: https://matmuchrapna.github.io/jquery.imenu/
+[bem-bootstrap]: https://github.com/iamstarkov/bem-bootstrap
+[gulp-csscomb-lint]: https://github.com/iamstarkov/gulp-csscomb-lint
+[CSS-Guidelines]: https://github.com/iamstarkov/CSS-Guidelines
+[bochar]: https://iamstarkov.com/bochar/
+[jquery.imenu]: https://iamstarkov.com/jquery.imenu/
