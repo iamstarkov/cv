@@ -1,5 +1,7 @@
 # [Vladimir Starkov's Resume](http://matmuchrapna.github.io/cv/ru/)
 
+[![Greenkeeper badge](https://badges.greenkeeper.io/iamstarkov/cv.svg)](https://greenkeeper.io/)
+
 * Vladimir Starkov, 23 years old
 * Married, no children
 * Yekaterinburg, Russian Federation
